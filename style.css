@@ -17,6 +17,7 @@ h1 {
 
 section {
     display: flex;
+    margin-bottom: 100px;
 }
 
 .c2 {
@@ -40,4 +41,19 @@ section {
 .top-banner {
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+}
+
+.c22 {
+    width: 70%;
+    padding-right: 5%;
+}
+
+.c22 img {
+    width: 80%;
+}
+
+.m-banner {
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
